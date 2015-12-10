@@ -1,16 +1,15 @@
 {
-  "name": "angular-just-digits",
-  "version": "0.0.2",
-  "homepage": "http://deltreey.github.io/angular-just-digits/",
+  "name": "angular-input-digits",
+  "version": "1.0.0",
+  "homepage": "http://deltreey.github.io/angular-input-digits/",
   "authors": [
     "deltreey <suicidolt@gmail.com>"
   ],
   "description": "An attribute to restrict an element to a certain number of numeric digits.",
-  "main": "digits.js",
+  "main": "inputdigits.js",
   "keywords": [
-    "angular-digits",
-    "angular-just-digits",
-    "just-digits"
+    "angular-input-digits",
+    "input-digits"
     "number",
     "digits"
   ],

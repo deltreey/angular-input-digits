@@ -1,4 +1,4 @@
-angular-just-digits
+angular-input-digits
 =====
 
 An attribute to restrict an element to a certain number of numeric digits.
@@ -10,26 +10,26 @@ Because it's such a small amount of code, it should be able to read and understa
 Available on Bower
 -----
 
-`bower install angular-just-digits`
+`bower install angular-input-digits`
 
 How To
 -----
-Simply include the digits module
+Simply include the input-digits module
 
 ```javascript
-var app = angular.module('app', [ 'digits' ]);
+var app = angular.module('app', [ 'input-digits' ]);
 ```
 
-Then use the digits attribute on your html elements
+Then use the digits attribute on your input elements
 
 ```html
 <input type="text" digits="4" ng-model="year" />
 ```
 
-Note that the number of digits is specified as the value of the `digits` attribute and that `ng-model` is required.
+Note that the number of digits is specified as the value of the `digits` attribute, the `type` must be `text` and that `ng-model` is required.
 
 This is particularly simple.  If you're looking for something that does more (and the complexity that comes with it) check out: [ngMask](https://github.com/candreoliveira/ngMask).
 
 That's it!
 
-Check out the github pages example here: http://deltreey.github.io/angular-just-digits/
+Check out the github pages example here: http://deltreey.github.io/angular-input-digits/
