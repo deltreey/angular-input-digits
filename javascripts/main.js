@@ -1,6 +1,6 @@
 'use strict';
-var app = angular.module('app', [ 'simple-focus' ]);
+var app = angular.module('app', [ 'digits' ]);
 
-app.controller('MainCtrl', function ($scope) {
-	$scope.stuff = [];
+app.controller('MainCtrl', function () {
+	// nothing needed here!
 });
