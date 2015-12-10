@@ -1,7 +1,7 @@
 {
-  "name": "angular-digits",
-  "version": "0.0.1",
-  "homepage": "http://deltreey.github.io/angular-digits/",
+  "name": "angular-just-digits",
+  "version": "0.0.2",
+  "homepage": "http://deltreey.github.io/angular-just-digits/",
   "authors": [
     "deltreey <suicidolt@gmail.com>"
   ],
@@ -9,6 +9,8 @@
   "main": "digits.js",
   "keywords": [
     "angular-digits",
+    "angular-just-digits",
+    "just-digits"
     "number",
     "digits"
   ],

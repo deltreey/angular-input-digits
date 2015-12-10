@@ -1,4 +1,4 @@
-angular-digits
+angular-just-digits
 =====
 
 An attribute to restrict an element to a certain number of numeric digits.
@@ -10,7 +10,7 @@ Because it's such a small amount of code, it should be able to read and understa
 Available on Bower
 -----
 
-`bower install angular-digits`
+`bower install angular-just-digits`
 
 How To
 -----
@@ -32,4 +32,4 @@ This is particularly simple.  If you're looking for something that does more (an
 
 That's it!
 
-Check out the github pages example here: http://deltreey.github.io/angular-digits/
+Check out the github pages example here: http://deltreey.github.io/angular-just-digits/
