@@ -1,0 +1,22 @@
+{
+  "name": "angular-digits",
+  "version": "0.0.1",
+  "homepage": "http://deltreey.github.io/angular-digits/",
+  "authors": [
+    "deltreey <suicidolt@gmail.com>"
+  ],
+  "description": "An attribute to restrict an element to a certain number of numeric digits.",
+  "main": "digits.js",
+  "keywords": [
+    "angular-digits",
+    "number",
+    "digits"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "1.x"
+  }
+}
