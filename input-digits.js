@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('just-digits', [])
+angular.module('input-digits', [])
   .directive('digits', function ($timeout) {
     function isNumeric(n) {
       return !isNaN(parseFloat(n)) && isFinite(n);
